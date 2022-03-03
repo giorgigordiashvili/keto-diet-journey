@@ -7,6 +7,10 @@
 
 ## Day #Test
 
+### Sleep
+
+**Slept :** 8 Hours
+
 ### Pictures 08:30 AM
 
 ![This is test image](./assets/test/pictures.jpeg)
@@ -30,6 +34,10 @@
 ![This is test image](./assets/test/food.jpeg)
 
 **Average price in Georgia :** 40 GEL (12.5$)
+
+### Work
+
+**Worked :** 8 Hours
 
 ### Moods
 
