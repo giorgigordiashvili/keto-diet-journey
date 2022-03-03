@@ -28,3 +28,13 @@
 ### Food at 12:00 PM
 
 ![This is test image](./assets/test/food.jpeg)
+
+**Average price in Georgia :** 40 GEL (12.5$)
+
+### Moods
+
+**12:00 PM ->** Feeling good
+
+**18:00 PM ->** Feeling good
+
+**22:00 PM ->** Feeling good
