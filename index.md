@@ -11,6 +11,10 @@
 
 **Slept :** 8 Hours
 
+### Mass
+
+**Weight :** 119.6KG (263 Pounds)
+
 ### Pictures 08:30 AM
 
 ![This is test image](./assets/test/pictures.jpeg)
