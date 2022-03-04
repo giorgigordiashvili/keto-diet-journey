@@ -42,9 +42,9 @@
 
 **Water #1 :** 14:05 600 ML
 
-**Redbull without sugar :** 14:30 250 ML
-
 **Water #2 :** 18:00 600 ML
+
+**Water #3 :** 19:10 600 ML
 
 ### Work
 
@@ -54,6 +54,6 @@
 
 **12:00 PM ->** Feeling good
 
-**18:00 PM ->** ...
+**18:00 PM ->** I am a little hungry
 
 **22:00 PM ->** ...
