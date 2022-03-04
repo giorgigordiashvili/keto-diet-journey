@@ -35,7 +35,7 @@
 
 ### Food at 12:00 PM
 
-![This is test image](./assets/test/food.jpeg)
+![This is test image](./assets/1/food.jpeg)
 
 ### Drinks
 
