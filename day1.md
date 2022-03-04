@@ -36,13 +36,15 @@
 ### Food at 12:00 PM
 
 ![This is test image](./assets/1/food.jpg)
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
 **Water #1 :** 14:05 600 ML
+
 **Redbull without sugar :** 14:30 250 ML
 
-**Average price in Georgia :** 40 GEL (12.5$)
+**Water #2 :** 18:00 600 ML
 
 ### Work
 
