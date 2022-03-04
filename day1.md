@@ -3,7 +3,7 @@
 - [x] Taking pictures in the morning at 08:30 AM
 - [x] Measuring my body at 08:50 AM
 - [x] Taking pictures of food I eat at 12:00 PM
-- [ ] Drinking at least 2 liters
+- [x] Drinking at least 2 liters
 
 ## Day #1
 
@@ -46,9 +46,11 @@
 
 **Water #3 :** 19:10 600 ML
 
+**Water #3 :** 22:45 600 ML
+
 ### Work
 
-**Worked :** 2 Hours
+**Worked :** 10 Hours
 
 ### Moods
 
@@ -56,4 +58,4 @@
 
 **18:00 PM ->** I am a little hungry
 
-**22:00 PM ->** ...
+**22:00 PM ->** I am a little hungry
