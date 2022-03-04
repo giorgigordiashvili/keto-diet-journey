@@ -2,7 +2,7 @@
 
 - [x] Taking pictures in the morning at 08:30 AM
 - [x] Measuring my body at 08:50 AM
-- [ ] Taking pictures of food I eat at 12:00 PM
+- [x] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
 ## Day #1
@@ -37,16 +37,21 @@
 
 ![This is test image](./assets/test/food.jpeg)
 
+### Drinks
+
+**Water #1 :** 14:05 600 ML
+**Redbull without sugar :** 14:30 250 ML
+
 **Average price in Georgia :** 40 GEL (12.5$)
 
 ### Work
 
-**Worked :** 8 Hours
+**Worked :** 2 Hours
 
 ### Moods
 
 **12:00 PM ->** Feeling good
 
-**18:00 PM ->** Feeling good
+**18:00 PM ->** ...
 
-**22:00 PM ->** Feeling good
+**22:00 PM ->** ...
