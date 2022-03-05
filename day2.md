@@ -2,10 +2,11 @@
 
 - [x] Taking pictures in the morning at 07:45 AM
 - [x] Measuring my body at 07:50 AM
+- [x] ### Workout at 08:10 AM
 - [ ] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
-## Day #1
+## Day #2
 
 ### Sleep
 
@@ -39,6 +40,10 @@
 
 **Thigh:** 75 CM
 
+### Workout
+
+**Walk:** 3.17KM (1.97 Miles)
+
 ### Food at 12:00 PM
 
 <!-- ![This is test image](./assets/1/food.jpg) -->
@@ -49,7 +54,7 @@
 
 **Water #1 :** 07:55 600 ML
 
-**Water #2 :** ...
+**Water #2 :** 09:20 600 ML
 
 **Water #3 :** ...
 
