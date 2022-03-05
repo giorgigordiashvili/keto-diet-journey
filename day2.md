@@ -3,7 +3,7 @@
 - [x] Taking pictures in the morning at 07:45 AM
 - [x] Measuring my body at 07:50 AM
 - [x] ### Workout at 08:10 AM
-- [ ] Taking pictures of food I eat at 12:00 PM
+- [x] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
 ## Day #2
@@ -46,9 +46,9 @@
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/1/food.jpg) -->
+![This is test image](./assets/2/food.png)
 
-<!-- **Average price in Georgia :** 40 GEL (12.5$) -->
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
@@ -56,7 +56,7 @@
 
 **Water #2 :** 09:20 600 ML
 
-**Water #3 :** ...
+**Water #3 :** 12:30 600 ML
 
 **Water #3 :** ...
 
@@ -66,7 +66,7 @@
 
 ### Moods
 
-**12:00 PM ->** ...
+**12:00 PM ->** Feeling little lighter than usual
 
 **18:00 PM ->** ...
 
