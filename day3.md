@@ -2,8 +2,8 @@
 
 - [x] Taking pictures in the morning at 07:45 AM
 - [x] Measuring my body at 07:50 AM
-- [ ] ### Workout at 08:10 AM
-- [ ] Taking pictures of food I eat at 12:00 PM
+- [x] ### Workout at 08:10 AM
+- [x] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
 ## Day #3
