@@ -4,7 +4,7 @@
 - [x] Measuring my body at 07:50 AM
 - [x] ### Workout at 08:10 AM
 - [x] Taking pictures of food I eat at 12:00 PM
-- [ ] Drinking at least 2 liters
+- [x] Drinking at least 2 liters
 
 ## Day #3
 
@@ -58,14 +58,18 @@
 
 **Mineral water #1 :** 10:10 300 ML
 
+**Water #3 :** 19:00 600 ML
+
+**Water #4 :** 22:30 600 ML
+
 ### Work
 
 **Worked :** 0 Hours
 
 ### Moods
 
-**12:00 PM ->** ...
+**12:00 PM ->** Feeling good
 
-**18:00 PM ->** ...
+**18:00 PM ->** Feeling good
 
 **22:00 PM ->** ...
