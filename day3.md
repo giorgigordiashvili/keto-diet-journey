@@ -46,9 +46,9 @@
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/2/food.png) -->
+![This is test image](./assets/3/food.png)
 
-<!-- **Average price in Georgia :** 40 GEL (12.5$) -->
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
