@@ -42,7 +42,7 @@
 
 ### Workout
 
-**Walk:** ...
+**Walk:** 3.17KM (1.97 Miles)
 
 ### Food at 12:00 PM
 
@@ -53,6 +53,10 @@
 ### Drinks
 
 **Water #1 :** 08:30 600 ML
+
+**Water #2 :** 10:10 300 ML
+
+**Mineral water #1 :** 10:10 300 ML
 
 ### Work
 
