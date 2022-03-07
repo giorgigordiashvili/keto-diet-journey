@@ -4,7 +4,7 @@
 - [x] Measuring my body when I wake up
 - [x] Workout
 - [x] Taking pictures of food I eat at 12:00 PM
-- [ ] Drinking at least 2 liters
+- [x] Drinking at least 2 liters
 
 ## Day #4
 
@@ -64,11 +64,13 @@
 
 **Water #4 :** 12:50 300 ML
 
-**Water #4 :** 21:00 600ML ML
+**Water #4 :** 21:00 600ML
+
+**Water #4 :** 23:00 300ML
 
 ### Work
 
-**Worked :** 6 Hours
+**Worked :** 10 Hours
 
 ### Moods
 
