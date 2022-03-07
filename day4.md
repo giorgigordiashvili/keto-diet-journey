@@ -1,8 +1,8 @@
 # Tasks for the day
 
-- [x] Taking pictures in the morning at 07:45 AM
-- [x] Measuring my body at 07:50 AM
-- [ ] ### Workout at 08:10 AM
+- [x] Taking pictures in the morning
+- [x] Measuring my body when I wake up
+- [x] Workout
 - [ ] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
@@ -42,7 +42,7 @@
 
 ### Workout
 
-**Walk:** ...
+**Walk:** 3.17 KM (1.97 miles)
 
 ### Food at 12:00 PM
 
@@ -56,9 +56,11 @@
 
 **Water #2 :** 06:30 300 ML
 
+**Water #3 :** 09:10 600 ML
+
 ### Work
 
-**Worked :** 0 Hours
+**Worked :** 2 Hours
 
 ### Moods
 
