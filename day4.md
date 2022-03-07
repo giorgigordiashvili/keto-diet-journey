@@ -3,7 +3,7 @@
 - [x] Taking pictures in the morning
 - [x] Measuring my body when I wake up
 - [x] Workout
-- [ ] Taking pictures of food I eat at 12:00 PM
+- [x] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
 ## Day #4
@@ -46,9 +46,9 @@
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/3/food.png) -->
+![This is test image](./assets/4/food.png)
 
-<!-- **Average price in Georgia :** 40 GEL (12.5$) -->
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
@@ -58,13 +58,17 @@
 
 **Water #3 :** 09:10 600 ML
 
+**Red bull without sugar #1 :** 12:40 250ML ML
+
+**Water #4 :** 12:50 300 ML
+
 ### Work
 
-**Worked :** 2 Hours
+**Worked :** 6 Hours
 
 ### Moods
 
-**12:00 PM ->** ...
+**12:00 PM ->** Feeling good
 
 **18:00 PM ->** ...
 
