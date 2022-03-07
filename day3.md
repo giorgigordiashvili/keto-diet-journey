@@ -14,7 +14,7 @@
 
 ### Mass
 
-**Weight :** 118.1KG (266.3 Pounds)
+**Weight :** 118.1KG (260.3 Pounds)
 
 ### Pictures
 
