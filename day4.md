@@ -12,6 +12,8 @@
 
 **Slept :** 5:00 Hours
 
+**Slept :** 2:00 Hours
+
 ### Mass
 
 **Weight :** 118.4KG (261 Pounds)
@@ -62,6 +64,8 @@
 
 **Water #4 :** 12:50 300 ML
 
+**Water #4 :** 21:00 600ML ML
+
 ### Work
 
 **Worked :** 6 Hours
@@ -70,6 +74,6 @@
 
 **12:00 PM ->** Feeling good
 
-**18:00 PM ->** ...
+**18:00 PM ->** Feeling good
 
-**22:00 PM ->** ...
+**22:00 PM ->** Stomach is little upset
