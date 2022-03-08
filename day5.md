@@ -4,7 +4,7 @@ Go to [Day 4](https://groot.ge/day4)
 
 - [x] Taking pictures in the morning
 - [x] Measuring my body when I wake up
-- [ ] Workout
+- [x] Workout
 - [ ] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
@@ -44,7 +44,7 @@ Go to [Day 4](https://groot.ge/day4)
 
 ### Workout
 
-**Walk:** 3.17 KM (1.97 miles)
+**Walk:** 3.10 KM (1.96 miles)
 
 ### Food at 12:00 PM
 
@@ -56,9 +56,11 @@ Go to [Day 4](https://groot.ge/day4)
 
 **Water #1 :** 05:50 600 ML
 
+**Water #1 :** 08:40 600 ML
+
 ### Work
 
-**Worked :** 0 Hours
+**Worked :** 2 Hours
 
 ### Moods
 
