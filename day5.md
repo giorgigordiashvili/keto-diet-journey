@@ -1,3 +1,5 @@
+Go to [Day 4](https://groot.ge/day4)
+
 # Tasks for the day
 
 - [x] Taking pictures in the morning

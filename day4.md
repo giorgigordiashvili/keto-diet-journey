@@ -1,3 +1,5 @@
+Go to [Day 3](https://groot.ge/day3)
+
 # Tasks for the day
 
 - [x] Taking pictures in the morning
@@ -79,3 +81,5 @@
 **18:00 PM ->** Feeling good
 
 **22:00 PM ->** Stomach is little upset
+
+Go to [Day 5](https://groot.ge/day5)

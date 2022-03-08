@@ -1,3 +1,5 @@
+Go to [Day 2](https://groot.ge/day2)
+
 # Tasks for the day
 
 - [x] Taking pictures in the morning at 07:45 AM
@@ -73,3 +75,5 @@
 **18:00 PM ->** Feeling good
 
 **22:00 PM ->** ...
+
+Go to [Day 4](https://groot.ge/day4)

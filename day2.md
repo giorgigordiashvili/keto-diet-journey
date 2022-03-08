@@ -1,3 +1,5 @@
+Go to [Day 1](https://groot.ge/day1)
+
 # Tasks for the day
 
 - [x] Taking pictures in the morning at 07:45 AM
@@ -74,3 +76,5 @@
 **18:00 PM ->** Feeling normal my stomach got little upset with fats
 
 **22:00 PM ->** Feeling good, no hunger
+
+Go to [Day 3](https://groot.ge/day3)

@@ -7,6 +7,8 @@
 
 ## Day #1
 
+Go to [Day 2](https://groot.ge/day2)
+
 ### Sleep
 
 **Slept :** 6:30 Hours
