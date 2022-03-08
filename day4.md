@@ -62,7 +62,7 @@ Go to [Day 3](https://groot.ge/day3)
 
 **Water #3 :** 09:10 600 ML
 
-**Red bull without sugar #1 :** 12:40 250ML ML
+**Red bull without sugar #1 :** 12:40 250ML
 
 **Water #4 :** 12:50 300 ML
 

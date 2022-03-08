@@ -5,14 +5,14 @@ Go to [Day 4](https://groot.ge/day4)
 - [x] Taking pictures in the morning
 - [x] Measuring my body when I wake up
 - [x] Workout
-- [ ] Taking pictures of food I eat at 12:00 PM
+- [x] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
 ## Day #5
 
 ### Sleep
 
-**Slept :** 6:00 Hours
+**Slept :** 4:00 Hours
 
 ### Mass
 
@@ -48,23 +48,27 @@ Go to [Day 4](https://groot.ge/day4)
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/4/food.png) -->
+![This is test image](./assets/5/food.png)
 
-<!-- **Average price in Georgia :** 40 GEL (12.5$) -->
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
 **Water #1 :** 05:50 600 ML
 
-**Water #1 :** 08:40 600 ML
+**Water #2 :** 08:40 600 ML
+
+**Water #3 :** 12:10 300 ML
+
+**Red bull without sugar #1 :** 12:30 250ML
 
 ### Work
 
-**Worked :** 2 Hours
+**Worked :** 5 Hours
 
 ### Moods
 
-**12:00 PM ->** ...
+**12:00 PM ->** Feeling good
 
 **18:00 PM ->** ...
 
