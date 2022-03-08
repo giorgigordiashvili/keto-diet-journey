@@ -14,6 +14,8 @@ Go to [Day 4](https://groot.ge/day4)
 
 **Slept :** 4:00 Hours
 
+**Slept :** 4:00 Hours
+
 ### Mass
 
 **Weight :** 116.6KG (257 Pounds)
@@ -62,14 +64,18 @@ Go to [Day 4](https://groot.ge/day4)
 
 **Red bull without sugar #1 :** 12:30 250ML
 
+**Mineral water #1 :** 18:30 600ML
+
+**Water #4 :** 00:10 600 ML
+
 ### Work
 
-**Worked :** 5 Hours
+**Worked :** 8 Hours
 
 ### Moods
 
 **12:00 PM ->** Feeling good
 
-**18:00 PM ->** ...
+**18:00 PM ->** Keto flu symptoms
 
-**22:00 PM ->** ...
+**22:00 PM ->** Keto flu symptoms
