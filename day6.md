@@ -5,7 +5,7 @@ Go to [Day 5](https://groot.ge/day5)
 - [x] Taking pictures in the morning
 - [x] Measuring my body when I wake up
 - [ ] Workout
-- [ ] Taking pictures of food I eat at 12:00 PM
+- [x] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
 ## Day #6
@@ -48,13 +48,15 @@ Go to [Day 5](https://groot.ge/day5)
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/5/food.png)
+![This is test image](./assets/6/food.jpg)
 
-**Average price in Georgia :** 40 GEL (12.5$) -->
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
 **Water #1 :** 09:05 600 ML
+
+**Water #2 :** 15:00 300 ML
 
 ### Work
 
@@ -62,7 +64,7 @@ Go to [Day 5](https://groot.ge/day5)
 
 ### Moods
 
-**12:00 PM ->**
+**12:00 PM ->** Feeling good
 
 **18:00 PM ->**
 
