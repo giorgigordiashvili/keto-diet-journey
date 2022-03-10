@@ -56,9 +56,11 @@ Go to [Day 6](https://groot.ge/day6)
 
 **Water #1 :** 09:30 600 ML
 
+**Water #2 :** 11:50 600 ML
+
 ### Moods
 
-**12:00 PM ->**
+**12:00 PM ->** Feeling good
 
 **18:00 PM ->**
 
