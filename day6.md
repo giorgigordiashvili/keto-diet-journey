@@ -6,7 +6,7 @@ Go to [Day 5](https://groot.ge/day5)
 - [x] Measuring my body when I wake up
 - [ ] Workout
 - [x] Taking pictures of food I eat at 12:00 PM
-- [ ] Drinking at least 2 liters
+- [x] Drinking at least 2 liters
 
 ## Day #6
 
@@ -58,6 +58,14 @@ Go to [Day 5](https://groot.ge/day5)
 
 **Water #2 :** 15:00 300 ML
 
+**Water #3 :** 19:00 300 ML
+
+**Red bull without sugar #1 :** 00:30 250ML
+
+**Water #4 :** 00:00 300 ML
+
+**Water #4 :** 04:00 600 ML
+
 ### Work
 
 **Worked :** 0 Hours
@@ -66,6 +74,6 @@ Go to [Day 5](https://groot.ge/day5)
 
 **12:00 PM ->** Feeling good
 
-**18:00 PM ->**
+**18:00 PM ->** Feeling good
 
-**22:00 PM ->**
+**22:00 PM ->** Feeling good
