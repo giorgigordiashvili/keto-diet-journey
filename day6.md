@@ -79,3 +79,5 @@ Go to [Day 5](https://groot.ge/day5)
 **18:00 PM ->** Feeling good
 
 **22:00 PM ->** Feeling good
+
+Go to [Day 7](https://groot.ge/day7)
