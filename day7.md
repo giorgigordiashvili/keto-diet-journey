@@ -48,9 +48,9 @@ Go to [Day 6](https://groot.ge/day6)
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/6/food.jpg)
+![This is test image](./assets/7/food.jpg)
 
-**Average price in Georgia :** 40 GEL (12.5$) -->
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
