@@ -6,7 +6,7 @@ Go to [Day 6](https://groot.ge/day6)
 - [x] Measuring my body when I wake up
 - [ ] Workout
 - [x] Taking pictures of food I eat at 12:00 PM
-- [ ] Drinking at least 2 liters
+- [x] Drinking at least 2 liters
 
 ## Day #7
 
@@ -62,10 +62,12 @@ Go to [Day 6](https://groot.ge/day6)
 
 **Water #4 :** 18:20 300 ML
 
+**Water #4 :** 21:00 600 ML
+
 ### Moods
 
 **12:00 PM ->** Feeling good
 
 **18:00 PM ->** Feeling good
 
-**22:00 PM ->**
+**22:00 PM ->** Feeling good
