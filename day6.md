@@ -14,6 +14,8 @@ Go to [Day 5](https://groot.ge/day5)
 
 **Slept :** 6:00 Hours
 
+**Slept :** 3:00 Hours
+
 ### Mass
 
 **Weight :** 117.1KG (258 Pounds)
@@ -68,7 +70,7 @@ Go to [Day 5](https://groot.ge/day5)
 
 ### Work
 
-**Worked :** 0 Hours
+**Worked :** 10 Hours
 
 ### Moods
 
