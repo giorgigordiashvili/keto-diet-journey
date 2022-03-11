@@ -19,3 +19,5 @@ Going to upload what is my mass every day (with pictures), what I drink/eat, how
 [Day 6](https://groot.ge/day6)
 
 [Day 7](https://groot.ge/day7)
+
+[Day 8](https://groot.ge/day8)
