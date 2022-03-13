@@ -48,20 +48,30 @@ Go to [Day 9](https://groot.ge/day9)
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/10/food.jpg)
+![This is test image](./assets/10/food.jpg)
 
-**Average price in Georgia :** 40 GEL (12.5$) -->
+- 150g peanuts
+
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
 **Water #1 :** 07:20 600 ML
 
+**Water #2 :** 13:30 600 ML
+
+**Water #3 :** 15:30 300 ML
+
+**redbull :** 17:30 250 ML
+
+**Water #4 :** 15:30 300 ML
+
 ### Moods
 
-**12:00 PM ->**
+**12:00 PM ->** Feeling Good
 
-**18:00 PM ->**
+**18:00 PM ->** Feeling Good
 
-**22:00 PM ->**
+**22:00 PM ->** Feeling Good
 
 {% include analytics.html %}
