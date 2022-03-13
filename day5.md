@@ -81,3 +81,5 @@ Go to [Day 4](https://groot.ge/day4)
 **22:00 PM ->** Keto flu symptoms
 
 Go to [Day 6](https://groot.ge/day6)
+
+{% include analytics.html %}

@@ -77,3 +77,5 @@ Go to [Day 2](https://groot.ge/day2)
 **22:00 PM ->** ...
 
 Go to [Day 4](https://groot.ge/day4)
+
+{% include analytics.html %}

@@ -83,3 +83,5 @@ Go to [Day 3](https://groot.ge/day3)
 **22:00 PM ->** Stomach is little upset
 
 Go to [Day 5](https://groot.ge/day5)
+
+{% include analytics.html %}

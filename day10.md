@@ -63,3 +63,5 @@ Go to [Day 9](https://groot.ge/day9)
 **18:00 PM ->**
 
 **22:00 PM ->**
+
+{% include analytics.html %}

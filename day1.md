@@ -61,3 +61,5 @@ Go to [Day 2](https://groot.ge/day2)
 **18:00 PM ->** I am a little hungry
 
 **22:00 PM ->** I am a little hungry
+
+{% include analytics.html %}

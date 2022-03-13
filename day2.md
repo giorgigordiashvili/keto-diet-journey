@@ -78,3 +78,5 @@ Go to [Day 1](https://groot.ge/day1)
 **22:00 PM ->** Feeling good, no hunger
 
 Go to [Day 3](https://groot.ge/day3)
+
+{% include analytics.html %}

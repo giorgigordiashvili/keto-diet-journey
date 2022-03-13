@@ -71,3 +71,5 @@ Go to [Day 7](https://groot.ge/day7)
 **22:00 PM ->** Feeling good
 
 Go to [Day 9](https://groot.ge/day)
+
+{% include analytics.html %}
