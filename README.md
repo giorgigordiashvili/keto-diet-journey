@@ -26,4 +26,6 @@ Going to upload what is my mass every day (with pictures), what I drink/eat, how
 
 [Day 10](https://groot.ge/day10)
 
+[Day 11](https://groot.ge/day11)
+
 {% include analytics.html %}

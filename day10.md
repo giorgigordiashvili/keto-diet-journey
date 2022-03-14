@@ -6,7 +6,7 @@ Go to [Day 9](https://groot.ge/day9)
 - [x] Measuring my body when I wake up
 - [ ] Workout
 - [ ] Taking pictures of food I eat at 12:00 PM
-- [ ] Drinking at least 2 liters
+- [x] Drinking at least 2 liters
 
 ## Day #10
 
@@ -64,7 +64,7 @@ Go to [Day 9](https://groot.ge/day9)
 
 **redbull :** 17:30 250 ML
 
-**Water #4 :** 15:30 300 ML
+**Water #4 :** 22:30 600 ML
 
 ### Moods
 
@@ -73,5 +73,7 @@ Go to [Day 9](https://groot.ge/day9)
 **18:00 PM ->** Feeling Good
 
 **22:00 PM ->** Feeling Good
+
+Go to [Day 11](https://groot.ge/day11)
 
 {% include analytics.html %}
