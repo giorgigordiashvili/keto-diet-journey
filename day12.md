@@ -1,11 +1,11 @@
-Go to [Day 9](https://groot.ge/day10)
+Go to [Day 11](https://groot.ge/day11)
 
 # Tasks for the day
 
 - [x] Taking pictures in the morning
 - [x] Measuring my body when I wake up
 - [ ] Workout
-- [ ] Taking pictures of food I eat at 12:00 PM
+- [x] Taking pictures of food I eat at 12:00 PM
 - [ ] Drinking at least 2 liters
 
 ## Day #12
@@ -48,17 +48,23 @@ Go to [Day 9](https://groot.ge/day10)
 
 ### Food at 12:00 PM
 
-<!-- ![This is test image](./assets/11/food.jpg)
+![This is test image](./assets/12/food.jpg)
 
-**Average price in Georgia :** 40 GEL (12.5$) -->
+**Average price in Georgia :** 40 GEL (12.5$)
 
 ### Drinks
 
 **Water #1 :** 08:10 300 ML
 
+**Water #2 :** 10:00 300 ML
+
+**Water #3 :** 16:00 300 ML
+
+**Water #4 :** 16:35 300 ML
+
 ### Moods
 
-**12:00 PM ->**
+**12:00 PM ->** Feeling good
 
 **18:00 PM ->**
 
