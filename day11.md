@@ -1,4 +1,4 @@
-Go to [Day 9](https://groot.ge/day10)
+Go to [Day 10](https://groot.ge/day10)
 
 # Tasks for the day
 
@@ -49,6 +49,7 @@ Go to [Day 9](https://groot.ge/day10)
 ### Food at 12:00 PM
 
 ![This is test image](./assets/11/food.jpg)
++200g peanuts
 
 **Average price in Georgia :** 40 GEL (12.5$)
 
@@ -69,5 +70,7 @@ Go to [Day 9](https://groot.ge/day10)
 **18:00 PM ->** Feeling good
 
 **22:00 PM ->** Feeling good
+
+Go to [Day 12](https://groot.ge/day12)
 
 {% include analytics.html %}
