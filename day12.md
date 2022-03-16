@@ -6,7 +6,7 @@ Go to [Day 11](https://groot.ge/day11)
 - [x] Measuring my body when I wake up
 - [ ] Workout
 - [x] Taking pictures of food I eat at 12:00 PM
-- [ ] Drinking at least 2 liters
+- [x] Drinking at least 2 liters
 
 ## Day #12
 
@@ -62,12 +62,18 @@ Go to [Day 11](https://groot.ge/day11)
 
 **Water #4 :** 16:35 300 ML
 
+**Water #5 :** 18:00 300 ML
+
+**Water #6 :** 22:00 600 ML
+
 ### Moods
 
 **12:00 PM ->** Feeling good
 
-**18:00 PM ->**
+**18:00 PM ->** Feeling good
 
-**22:00 PM ->**
+**22:00 PM ->** Feeling good
+
+Go to [Day 13](https://groot.ge/day13)
 
 {% include analytics.html %}
