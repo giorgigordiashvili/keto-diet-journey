@@ -58,12 +58,18 @@ Only ate half of top side dishes and added 100G peanuts
 
 **Water #1 :** 13:00 600 ML
 
+**Water #1 :** 15:00 600 ML
+
+**Water #1 :** 17:00 600 ML
+
 ### Moods
 
 **12:00 PM ->** Feeling good
 
-**18:00 PM ->**
+**18:00 PM ->** Feeling good
 
-**22:00 PM ->**
+**22:00 PM ->** Feeling good
+
+Go to [Day 14](https://groot.ge/day14)
 
 {% include analytics.html %}
