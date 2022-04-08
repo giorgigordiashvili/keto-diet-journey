@@ -64,4 +64,6 @@ Go to [Day 13](https://groot.ge/day13)
 
 **22:00 PM ->**
 
+Go to [Day 15-26](https://groot.ge/day15-26)
+
 {% include analytics.html %}
